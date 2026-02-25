@@ -1,11 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE CLUBES HD
-http://dragoniptv99.dyndns.tv:8505/live/francis/francis/728.ts ?  PREMIERE CLUBES HD
+#EXTINF:-1 tvg-logo="https://goo.gl/4YBvxY" group-title="INFORMAÇÕES: CLIQUE AQUI!", LISTA DO RODRIGOU
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-85t5_lKbgAM/UrI2mxMpjaI/AAAAAAAAGo4/_NN0FF8Dh4E/s320/pedido.png" group-title="INFORMAÇÕES: CLIQUE AQUI!", PEDIDOS DE FILMES E SERIES PEÇA NA PÁGINA!
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="INFORMAÇÕES: CLIQUE AQUI!", bit.ly/RODRIGOUPAGINA
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/cash-payment_23-2147511454.jpg" group-title="FAÇA UMA DOAÇÃO! PARA CONTINUAR COM ESSE TRABALHO", FAÇA UMA DOAÇÃO! PARA CONTINUAR COM ESSE TRABALHO
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="https://www.listaiptvvip.com/wp-content/uploads/2017/11/lista-iptv-vip.png" group-title="MELHOR LISTA DE CANAIS", QUER UM LISTA DE CANAIS COMPLETA ? SO ENTRAR EM CONTATO COM WWW.LISTAIPTVVIP.COM OU NO WHATS
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="https://www.listaiptvvip.com/wp-content/uploads/2017/11/lista-iptv-vip.png" group-title="MELHOR LISTA DE CANAIS", WHATS (19) 998509928
+http://0.0.0.0
 
-#EXTINF:-1 tvg-id="PREMIERE CLUBES SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE CLUBES SD
-http://dragoniptv99.dyndns.tv:8505/live/francis/francis/617.ts ? PREMIERE CLUBES SD
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VIKINGS
+http://0.0.0.0
 
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 2 HD
-http://dragoniptv99.dyndns.tv:8505/live/francis/francis/727.ts ?  PREMIERE 2 HD
-#EXTINF:-1 tvg-id="PREMIERE 2 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 2 SD
-http://dragoniptv99.dyndns.tv:8505/live/francis/francis/625.ts ?  PREMIERE 2 SD
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP1
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP2
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP3
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP4
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP5
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP6
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP7
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP8
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/GZFbPW" group-title="VIKINGS", VKS T1|EP9
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/VKGST01EP09.mp4
