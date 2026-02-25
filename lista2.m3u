@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BBB26 - CAM01" tvg-logo="https://i.imgur.com/wrCmhnt.png" group-title="CANAIS | BBB 26",BBB26 - CAM01
-http://conecdg.me:80/77160276/56433263/3915923
-#EXTINF:-1 tvg-id="" tvg-name="BBB26 - CAM02" tvg-logo="https://i.imgur.com/wrCmhnt.png" group-title="CANAIS | BBB 26",BBB26 - CAM02
-http://conecdg.me:80/77160276/56433263/3915924
-#EXTINF:-1 tvg-id="" tvg-name="BBB26 - CAM03" tvg-logo="https://i.imgur.com/wrCmhnt.png" group-title="CANAIS | BBB 26",BBB26 - CAM03
-http://conecdg.me:80/77160276/56433263/3915925
-#EXTINF:-1 tvg-id="" tvg-name="BBB26 - CAM04" tvg-logo="https://i.imgur.com/wrCmhnt.png" group-title="CANAIS | BBB 26",BBB26 - CAM04
-http://conecdg.me:80/77160276/56433263/3915926
-#EXTINF:-1 tvg-id="" tvg-name="BBB26 - CAM05" tvg-logo="https://i.imgur.com/wrCmhnt.png" group-title="CANAIS | BBB 26",BBB26 - CAM05
-http://conecdg.me:80/77160276/56433263/3915927
-#EXTINF:-1 tvg-id="" tvg-name="BBB26 - CAM06" tvg-logo="https://i.imgur.com/wrCmhnt.png" group-title="CANAIS | BBB 26",BBB26 - CAM06
-http://conecdg.me:80/77160276/56433263/3915928
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE CLUBES HD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/728.ts ?  PREMIERE CLUBES HD
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE CLUBES SD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/617.ts ? PREMIERE CLUBES SD
+
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 2 HD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/727.ts ?  PREMIERE 2 HD
+#EXTINF:-1 tvg-id="PREMIERE 2 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",PREMIERE 2 SD
+http://dragoniptv99.dyndns.tv:8505/live/francis/francis/625.ts ?  PREMIERE 2 SD
