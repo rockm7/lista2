@@ -1,5 +1,135 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime - 01" tvg-logo="https://m.media-amazon.com/images/I/413+SVFO39L.png" group-title="CANAIS | PAY-PER-VIEW",Amazon Prime - 01
-http://conecdg.me:80/77160276/56433263/3920648
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime - 02" tvg-logo="https://m.media-amazon.com/images/I/413+SVFO39L.png" group-title="CANAIS | PAY-PER-VIEW",Amazon Prime - 02
-http://conecdg.me:80/77160276/56433263/3920649
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 01" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="CANAIS • PRIME VIDEO",PRIME VIDEO 01
+http://axshield.xyz:80/765533561/344364231/9014561
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 02" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="CANAIS • PRIME VIDEO",PRIME VIDEO 02
+http://axshield.xyz:80/765533561/344364231/9014562
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 03" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="CANAIS • PRIME VIDEO",PRIME VIDEO 03
+http://axshield.xyz:80/765533561/344364231/9014563
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 04" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="CANAIS • PRIME VIDEO",PRIME VIDEO 04
+http://axshield.xyz:80/765533561/344364231/9014564
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 05" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="CANAIS • PRIME VIDEO",PRIME VIDEO 05
+http://axshield.xyz:80/765533561/344364231/9014565
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 06" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="CANAIS • PRIME VIDEO",PRIME VIDEO 06
+http://axshield.xyz:80/765533561/344364231/9014566
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 07" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="CANAIS • PRIME VIDEO",PRIME VIDEO 07
+http://axshield.xyz:80/765533561/344364231/9014567
+#EXTINF:-1 tvg-id="dummy-701" tvg-name="PRIME VIDEO 08" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-open/prime-video-02.png" group-title="CANAIS • PRIME VIDEO",PRIME VIDEO 08
+http://axshield.xyz:80/765533561/344364231/9014568
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="CANAIS • ESPORTES STREAMING",HBO MAX 01
+http://axshield.xyz:80/765533561/344364231/9014534
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="CANAIS • ESPORTES STREAMING",HBO MAX 02
+http://axshield.xyz:80/765533561/344364231/9014535
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="CANAIS • ESPORTES STREAMING",HBO MAX 03
+http://axshield.xyz:80/765533561/344364231/9014536
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="CANAIS • ESPORTES STREAMING",HBO MAX 04
+http://axshield.xyz:80/765533561/344364231/9014537
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="CANAIS • ESPORTES STREAMING",HBO MAX 05
+http://axshield.xyz:80/765533561/344364231/9014538
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="CANAIS • ESPORTES STREAMING",HBO MAX 06
+http://axshield.xyz:80/765533561/344364231/9014539
+#EXTINF:-1 tvg-id="dummy-607" tvg-name="HBO MAX 07" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="CANAIS • ESPORTES STREAMING",HBO MAX 07
+http://axshield.xyz:80/765533561/344364231/9014540
+#EXTINF:-1 tvg-id="dummy-608" tvg-name="HBO MAX 08" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/hbo-max-1-fhd.png" group-title="CANAIS • ESPORTES STREAMING",HBO MAX 08
+http://axshield.xyz:80/765533561/344364231/9014541
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 1 CLUBES FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mosaico-premiere-fhd.png" group-title="CANAIS • PREMIERE",PREMIERE 1 CLUBES FHD
+http://axshield.xyz:80/765533561/344364231/9014463
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 1 CLUBES HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mosaico-premiere-fhd.png" group-title="CANAIS • PREMIERE",PREMIERE 1 CLUBES HD
+http://axshield.xyz:80/765533561/344364231/9014464
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 1 CLUBES SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/mosaico-premiere-fhd.png" group-title="CANAIS • PREMIERE",PREMIERE 1 CLUBES SD
+http://axshield.xyz:80/765533561/344364231/9014465
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-2-fhd-alt.png" group-title="CANAIS • PREMIERE",PREMIERE 2 FHD
+http://axshield.xyz:80/765533561/344364231/9014466
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-2-fhd-alt.png" group-title="CANAIS • PREMIERE",PREMIERE 2 HD
+http://axshield.xyz:80/765533561/344364231/9014467
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-2-fhd-alt.png" group-title="CANAIS • PREMIERE",PREMIERE 2 SD
+http://axshield.xyz:80/765533561/344364231/9014468
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-3-fhd-alt.png" group-title="CANAIS • PREMIERE",PREMIERE 3 FHD
+http://axshield.xyz:80/765533561/344364231/9014469
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-3-fhd-alt.png" group-title="CANAIS • PREMIERE",PREMIERE 3 HD
+http://axshield.xyz:80/765533561/344364231/9014470
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-3-fhd-alt.png" group-title="CANAIS • PREMIERE",PREMIERE 3 SD
+http://axshield.xyz:80/765533561/344364231/9014471
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-4-4k.png" group-title="CANAIS • PREMIERE",PREMIERE 4 FHD
+http://axshield.xyz:80/765533561/344364231/9014472
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-4-4k.png" group-title="CANAIS • PREMIERE",PREMIERE 4 HD
+http://axshield.xyz:80/765533561/344364231/9014473
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-4-4k.png" group-title="CANAIS • PREMIERE",PREMIERE 4 SD
+http://axshield.xyz:80/765533561/344364231/9014474
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-5-fhd.png" group-title="CANAIS • PREMIERE",PREMIERE 5 FHD
+http://axshield.xyz:80/765533561/344364231/9014475
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-5-fhd.png" group-title="CANAIS • PREMIERE",PREMIERE 5 HD
+http://axshield.xyz:80/765533561/344364231/9014476
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-5-fhd.png" group-title="CANAIS • PREMIERE",PREMIERE 5 SD
+http://axshield.xyz:80/765533561/344364231/9014477
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-6-4k.png" group-title="CANAIS • PREMIERE",PREMIERE 6 FHD
+http://axshield.xyz:80/765533561/344364231/9014478
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-6-4k.png" group-title="CANAIS • PREMIERE",PREMIERE 6 HD
+http://axshield.xyz:80/765533561/344364231/9014479
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-6-4k.png" group-title="CANAIS • PREMIERE",PREMIERE 6 SD
+http://axshield.xyz:80/765533561/344364231/9014480
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-7-fhd.png" group-title="CANAIS • PREMIERE",PREMIERE 7 FHD
+http://axshield.xyz:80/765533561/344364231/9014481
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-7-fhd.png" group-title="CANAIS • PREMIERE",PREMIERE 7 HD
+http://axshield.xyz:80/765533561/344364231/9014482
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-7-fhd.png" group-title="CANAIS • PREMIERE",PREMIERE 7 SD
+http://axshield.xyz:80/765533561/344364231/9014483
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIERE 8 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-8-hd.png" group-title="CANAIS • PREMIERE",PREMIERE 8 FHD
+http://axshield.xyz:80/765533561/344364231/9014484
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-8-hd.png" group-title="CANAIS • PREMIERE",PREMIERE 8 HD
+http://axshield.xyz:80/765533561/344364231/9014485
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIERE 8 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/premiere-8-hd.png" group-title="CANAIS • PREMIERE",PREMIERE 8 SD
+http://axshield.xyz:80/765533561/344364231/9014486
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="CANAIS • SPORTV",SPORTV 1 FHD
+http://axshield.xyz:80/765533561/344364231/9014490
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="CANAIS • SPORTV",SPORTV 1 HD
+http://axshield.xyz:80/765533561/344364231/9014491
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 1 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="CANAIS • SPORTV",SPORTV 1 SD
+http://axshield.xyz:80/765533561/344364231/9014492
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/sportv-fhd.png" group-title="CANAIS • SPORTV",SPORTV 2 FHD
+http://axshield.xyz:80/765533561/344364231/9014493
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/sportv-fhd.png" group-title="CANAIS • SPORTV",SPORTV 2 HD
+http://axshield.xyz:80/765533561/344364231/9014494
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay/sportv-fhd.png" group-title="CANAIS • SPORTV",SPORTV 2 SD
+http://axshield.xyz:80/765533561/344364231/9014495
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="CANAIS • SPORTV",SPORTV 3 FHD
+http://axshield.xyz:80/765533561/344364231/9014496
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="CANAIS • SPORTV",SPORTV 3 HD
+http://axshield.xyz:80/765533561/344364231/9014497
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/logos-uniplay2/sportv-uhd.png" group-title="CANAIS • SPORTV",SPORTV 3 SD
+http://axshield.xyz:80/765533561/344364231/9014498
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-1-4k.png" group-title="CANAIS • ESPN",ESPN 1 FHD
+http://axshield.xyz:80/765533561/344364231/9014499
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-1-4k.png" group-title="CANAIS • ESPN",ESPN 1 HD
+http://axshield.xyz:80/765533561/344364231/9014500
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-1-4k.png" group-title="CANAIS • ESPN",ESPN 1 SD
+http://axshield.xyz:80/765533561/344364231/9014501
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-2-4k.png" group-title="CANAIS • ESPN",ESPN 2 FHD
+http://axshield.xyz:80/765533561/344364231/9014502
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-2-4k.png" group-title="CANAIS • ESPN",ESPN 2 HD
+http://axshield.xyz:80/765533561/344364231/9014503
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-2-4k.png" group-title="CANAIS • ESPN",ESPN 2 SD
+http://axshield.xyz:80/765533561/344364231/9014504
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-3-4k.png" group-title="CANAIS • ESPN",ESPN 3 FHD
+http://axshield.xyz:80/765533561/344364231/9014505
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-3-4k.png" group-title="CANAIS • ESPN",ESPN 3 HD
+http://axshield.xyz:80/765533561/344364231/9014506
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-3-4k.png" group-title="CANAIS • ESPN",ESPN 3 SD
+http://axshield.xyz:80/765533561/344364231/9014507
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-4-4k.png" group-title="CANAIS • ESPN",ESPN 4 FHD
+http://axshield.xyz:80/765533561/344364231/9014508
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-4-4k.png" group-title="CANAIS • ESPN",ESPN 4 HD
+http://axshield.xyz:80/765533561/344364231/9014509
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-4-4k.png" group-title="CANAIS • ESPN",ESPN 4 SD
+http://axshield.xyz:80/765533561/344364231/9014510
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 5 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-5-fhd.png" group-title="CANAIS • ESPN",ESPN 5 FHD
+http://axshield.xyz:80/765533561/344364231/9014511
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 5 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-5-fhd.png" group-title="CANAIS • ESPN",ESPN 5 HD
+http://axshield.xyz:80/765533561/344364231/9014512
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 5 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-5-fhd.png" group-title="CANAIS • ESPN",ESPN 5 SD
+http://axshield.xyz:80/765533561/344364231/9014513
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 6 FHD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-6-fhd.png" group-title="CANAIS • ESPN",ESPN 6 FHD
+http://axshield.xyz:80/765533561/344364231/9014514
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 6 HD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-6-fhd.png" group-title="CANAIS • ESPN",ESPN 6 HD
+http://axshield.xyz:80/765533561/344364231/9014515
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 6 SD" tvg-logo="https://hostinfiniteplay.fun/cloudify/public/storage/minhas-logos/espn-6-fhd.png" group-title="CANAIS • ESPN",ESPN 6 SD
+http://axshield.xyz:80/765533561/344364231/9014516
